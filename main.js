@@ -40,7 +40,7 @@ export default class Text2Calendar extends Component {
           </ActionButton.Item>
         </ActionButton>
       </View>
-  );
+    );
   }
 
   _renderSeparator(sectionID: number, rowID: number, adjacentRowHighlighted: bool) {
