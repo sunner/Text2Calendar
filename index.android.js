@@ -4,4 +4,5 @@
  * @flow
  */
 
+'use strict';
 require('./main.js');
